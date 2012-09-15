@@ -2,6 +2,5 @@
     "name": "morpheus"
   , "repo": "formwatcher/morpheus"
   , "description": "A Brilliant Animator"
-  , "main": "./morpheus.js"
-  , "scripts": ["./morpheus.js"]
+  , "scripts": ["index.js"]
 }
